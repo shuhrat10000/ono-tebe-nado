@@ -72,14 +72,7 @@ body {
   height: 105px;
 }
 
-.adress {
-  color: black;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 135%;
-}
-
-.header__address {
+.address {
   width: 240px;
   color: #000;
   font-family: Raleway;
@@ -461,24 +454,6 @@ h4 {
   align-items: flex-start;
 }
 
-.adress {
-  color: black;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 135%;
-}
-
-.footer__address {
-  width: 240px;
-  color: #000;
-  font-family: Raleway;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24.3px;
-  text-underline-offset: 5px;
-}
-
 .footer__menu {
   display: flex;
   flex-direction: column;
@@ -486,8 +461,6 @@ h4 {
   align-items: self-start;
   font-weight: 400;
   font-size: 18px;
-  line-height: normal;
-  color: #000;
 }
 
 .footer__menu-list {
