@@ -147,7 +147,7 @@ address {
   align-self: flex-end;
   text-transform: uppercase;
 }
-button {
+.bet-button {
   padding-top: 12px;
   padding-right: 32px;
   padding-bottom: 12px;
@@ -162,10 +162,7 @@ button {
   line-height: normal;
   text-transform: uppercase;
   text-decoration: none;
-}
-
-.link {
-  text-decoration: none;
+  cursor: pointer;
 }
 
 .lots {
