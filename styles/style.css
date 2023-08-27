@@ -271,12 +271,6 @@ h3 {
   margin-left: 40px;
   margin-top: 31px;
   margin-bottom: 0px;
-  position: relative;
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: center;
-  z-index: 1;
 }
 
 .about {
